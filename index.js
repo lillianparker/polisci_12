@@ -13,7 +13,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
                         { image: "L1.jpg" },
                         { image: "L2.jpg" },
                         { image: "L3.jpg" },
-                        { image: "L3.jpg" },
+                        { image: "L4.jpg" },
                         { image: "L5.jpg" },
                         { image: "L6.jpg" },
                         { image: "L7.jpg" },
