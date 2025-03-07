@@ -51,7 +51,8 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 		},
 
 		base_url : {//Where are your images at?
-			image: "https://lillianparker.github.io/images"
+			// image: "https://lillianparker.github.io/images"
+            image: "https://lillianparker.github.io/lillianparker.github.io/images/"
 		}
 	});
 });
@@ -111,7 +112,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 //                 ]
 //             },
 //             base_url: {
-//                 image: "https://lillianparker.github.io/images"
+//                 image: "https://lillianparker.github.io/lillianparker.github.io/images/"
 //             }
 //         };
 //     </script>
