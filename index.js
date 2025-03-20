@@ -67,8 +67,8 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 	return ampExtension({
 		primeCats :  [
                 {
-                    nameForFeedback: 'Islamic',
-                    nameForLogging: 'Islamic',
+                    nameForFeedback: 'Black People',
+                    nameForLogging: 'Black People',
 				mediaArray : [
 				    {image : 'b01.jpg'}, 
 					{image : 'b02.jpg'}, 
@@ -85,8 +85,8 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 
 			},
                 {
-                    nameForFeedback: 'Non-Islamic',
-                    nameForLogging: 'Non-Islamic',
+                    nameForFeedback: 'White People',
+                    nameForLogging: 'White People',
   				mediaArray : [
 				    {image : 'w01.jpg'}, 
 					{image : 'w02.jpg'}, 
